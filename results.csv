@@ -1,0 +1,23 @@
+filename,normal_termination,calc_type,method,basis_set,solvent_model,charge,multiplicity,n_atoms,final_scf_energy_hartree,e0_zpe_hartree,enthalpy_hartree,gibbs_hartree,zpe_correction_hartree,n_imaginary_freqs,imaginary_freqs_cm-1,opt_steps
+ala_gly_ts.log,True,TS Optimization|Frequency Analysis,M062X,6-31+G*,SMD/water,0,1,20,-531.548837378,-531.384576,-531.373337,-531.421034,0.164262,1,-104.56,21
+ala_gly_ts_2.log,True,Single Point Energy,M062X,"6-311+G(2df,2p)",SMD/water,0,1,20,-531.734302272,,,,,0,,0
+ala_gly.log,True,Geometry Optimization|Frequency Analysis,M062X,6-31+G*,SMD/water,0,1,20,-531.581000325,-531.41571,-531.403769,-531.453336,0.165291,0,,33
+ala_gly_2.log,True,Single Point Energy,M062X,"6-311+G(2df,2p)",SMD/water,0,1,20,-531.766563888,,,,,0,,0
+ala_ser.log,True,Geometry Optimization|Frequency Analysis,M062X,6-31+G*,SMD/water,0,1,24,-646.071877485,-645.872618,-645.858158,-645.913757,0.199259,0,,28
+ala_ser_ts.log,True,TS Optimization|Frequency Analysis,M062X,6-31+G*,SMD/water,0,1,24,-646.040613669,-645.842424,-645.828726,-645.882299,0.19819,1,-96.02,24
+ala_ser_2.log,True,Single Point Energy,M062X,"6-311+G(2df,2p)",SMD/water,0,1,24,-646.300055963,,,,,0,,0
+ala_ser_ts_2.log,True,Single Point Energy,M062X,"6-311+G(2df,2p)",SMD/water,0,1,24,-646.268551067,,,,,0,,0
+alpha-L-lyxose.log,True,Geometry Optimization|Frequency Analysis,M062X,6-31+G**,SMD/water,0,1,20,-572.493972269,-572.326843,-572.316073,-572.360945,0.167129,0,,17
+alpha-L-lyxose_2.log,True,Single Point Energy,M062X,"6-311+G(2df,2p)",SMD/water,0,1,20,-572.675781587,,,,,0,,0
+beta-L-lyxose.log,True,Geometry Optimization|Frequency Analysis,M062X,6-31+G**,SMD/water,0,1,20,-572.491586181,-572.3245,-572.313782,-572.358709,0.167086,0,,19
+beta-L-lyxose_2.log,True,Single Point Energy,M062X,"6-311+G(2df,2p)",SMD/water,0,1,20,-572.674026231,,,,,0,,0
+gly_ala.log,True,Geometry Optimization|Frequency Analysis,M062X,6-31+G*,SMD/water,0,1,20,-531.590143339,-531.42263,-531.410744,-531.460211,0.167513,0,,57
+gly_ala_2.log,True,Single Point Energy,M062X,"6-311+G(2df,2p)",SMD/water,0,1,20,-531.770855328,,,,,0,,0
+gly_ala_ts_2.log,True,Single Point Energy,M062X,"6-311+G(2df,2p)",SMD/water,0,1,20,-531.738148505,,,,,0,,0
+gly_ala_ts.log,True,TS Optimization|Frequency Analysis,M062X,6-31+G*,SMD/water,0,1,20,-531.557938442,-531.391886,-531.38068,-531.428983,0.166053,1,-110.07,25
+linear_L_lyxose.log,True,Geometry Optimization|Frequency Analysis,M062X,6-31+G**,SMD/water,0,1,20,-572.470297838,-572.30797,-572.29526,-572.345272,0.162328,0,,19
+linear_L_lyxose_2.log,True,Single Point Energy,M062X,"6-311+G(2df,2p)",SMD/water,0,1,20,-572.653659442,,,,,0,,0
+ser_ala.log,True,Geometry Optimization|Frequency Analysis,M062X,6-31+G*,SMD/water,0,1,24,-646.083359002,-645.8824,-645.868144,-645.923063,0.200959,0,,22
+ser_ala_2.log,True,Single Point Energy,M062X,"6-311+G(2df,2p)",SMD/water,0,1,24,-646.306259554,,,,,0,,0
+ser_ala_ts.log,True,TS Optimization|Frequency Analysis,M062X,6-31+G*,SMD/water,0,1,24,-646.04929798,-645.84947,-645.83591,-645.889502,0.199828,1,-103.63,46
+ser_ala_ts_2.log,True,Single Point Energy,M062X,"6-311+G(2df,2p)",SMD/water,0,1,24,-646.271713642,,,,,0,,0
